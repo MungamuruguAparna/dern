@@ -1,0 +1,5 @@
+spring:
+  datasource:
+    jndi-name: java:jboss/datasources/derniercriDataSource
+  jta:
+    enabled: true
